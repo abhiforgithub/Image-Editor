@@ -1,0 +1,10 @@
+<resources>
+
+
+    <dimen name="drawer_text_padding">8dp</dimen>
+    <dimen name="keyline_x4">16dp</dimen>
+    <dimen name="elevation_fab_resting_or_snackbar">6dp</dimen>
+    <dimen name="elevation_fab_pressed">12dp</dimen>
+    <dimen name="elevation_card_resting">1dp</dimen>
+
+</resources>

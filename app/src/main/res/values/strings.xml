@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ImageEditorApp</string>
+    <string name="save_image">SaveImage</string>
+    <string name="select_image">SelectImage</string>
+    <string name="ic_rotate_left_24">Rotate counter clockwise</string>
+    <string name="ic_rotate_right_24">Rotate</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="ic_flip_24">Flip</string>
+    <string name="ic_flip_24_horizontally">Flip horizontally</string>
+    <string name="ic_flip_24_vertically">Flip vertically</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title"></string>
+    <string name="sample_using_cropimageview">Click Button To Crop Images</string>
+    <string name="result_image_desc">crop result</string>
+    <string name="main_action_flip_horizontally">Flip horizontally</string>
+    <string name="main_action_flip">Flip</string>
+    <string name="main_action_rotate">Rotate 90 degrees clockwise</string>
+    <string name="main_action_flip_vertically">Flip vertically</string>
+    <string name="main_action_crop">CROP</string>
+    <string name="reset">reset</string>
+</resources>
